@@ -9,11 +9,11 @@ ENG
 Open-source personal portfolio website built with HTML and CSS.
 Feel free to fork, use, or improve it.
 
+![Portfolio preview](assets/m4ngo3.png)
+
 ![Portfolio preview](assets/m4ngo1.png)
 
 ![Portfolio preview](assets/m4ngo2.png)
-
-![Portfolio preview](assets/m4ngo3.png)
 
 HTML CSS JS
 
